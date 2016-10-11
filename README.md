@@ -5,9 +5,9 @@ A very simple vending machine model for learning different languages
 Model a 6x10x20 snack vending machine
 
 **machine**
-6 rows
-10 cols
-20 items deep
+* 6 rows
+* 10 cols
+* 20 items deep
 
 **inputs**
 * currency

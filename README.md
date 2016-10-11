@@ -31,6 +31,7 @@ Model a 6x10x20 snack vending machine
   * currency 
   * names
 * Unit Testing
+* Only mention the snack item output
 
 ## Notes
 * this is usually just a thinking exercise to see how the candidate breaks a problem down
